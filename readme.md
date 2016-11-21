@@ -1,5 +1,7 @@
 # Model of Mictlantecuhli, Aztec
 
+![Rotating gif of statue](https://raw.githubusercontent.com/BritishMuseumDH/mictlantecuhli/master/Mictlantecuhtli.gif "Rotating gif")
+
 This folder contains images, masks and files to recreate a 3D model of the Mictlantecuhli figure found in the Mexico gallery @britishmuseum.
 
 # Object data

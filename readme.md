@@ -13,6 +13,7 @@ The contents of this repository are licensed under CC BY-NC-SA.
 
 # DOI
 
+[![DOI](https://zenodo.org/badge/74356591.svg)](https://zenodo.org/badge/latestdoi/74356591)
 
 # Credits
 
